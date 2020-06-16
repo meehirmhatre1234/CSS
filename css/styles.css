@@ -1,0 +1,53 @@
+.circular{
+  border-radius: 100%;
+}
+
+.p1{
+  font-size: 80px;
+  margin: 0 auto;
+  font-family: "Brush Script MT", Brush Script Std, cursive;
+  color: #204051;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #204051;
+}
+
+body {
+  background-color: #84a9ac;
+  text-align: center;
+  margin: 0;
+}
+
+
+
+div {
+  text-align: center;
+}
+.top-cloud{
+  position:absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+
+}
+.top-container {
+  background-color: #84a9ac;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middle-container {
+  background-color: #84a9ac;
+}
+
+.bottom-container {
+  background-color: #84a9ac;
+}
